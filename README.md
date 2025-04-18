@@ -8,7 +8,7 @@ Cross-functional visibility to identify growth and optimization opportunities
 
 Decision support tool for leadership to align strategy with performance
 
-KPI-driven tracking across departments to measure and benchmark business performance
+KPI-driven tracking across departments to measure and benchmark business performance.
 
 Interactive drill-downs for granular analysis across departments
 
